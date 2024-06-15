@@ -11,6 +11,8 @@ This assignment aims to familiarize you with the tools and configurations necess
 #Tasks:
 
 1. Select Your Operating System (OS):
+
+MacOS
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
@@ -50,5 +52,7 @@ Submit your document and GitHub repository link through the designated platform 
 - Appropriateness of tools selected for the project requirements.
 - Clarity of reflection on challenges and solutions encountered.
 - Adherence to submission guidelines and deadlines.
+
+https://docs.google.com/document/d/1dP41cuCNMfk6Kh4cWL2T3cHi1S8Pi95qTlGSS_ca2V4/edit?usp=sharing 
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
